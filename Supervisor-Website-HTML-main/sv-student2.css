@@ -1,0 +1,111 @@
+.sv-student2-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-color: var(--dl-color-gray-bg);
+}
+.sv-student2-top-bar {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  width: 1921px;
+  height: 98px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+  background-color: #1e1c1c;
+}
+.sv-student2-text {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  text-align: center;
+}
+.sv-student2-navlink {
+  top: 533px;
+  left: 972px;
+  width: 294px;
+  height: 66px;
+  position: absolute;
+  box-shadow: 1px 1px 5px 0px #000000;
+  text-align: center;
+  text-decoration: none;
+}
+.sv-student2-navlink1 {
+  top: 222px;
+  left: 322px;
+  position: absolute;
+  box-shadow: 1px 1px 5px 0px #000000;
+  text-align: center;
+  text-decoration: none;
+}
+.sv-student2-form {
+  top: 223px;
+  left: 972px;
+  width: 294px;
+  height: 212px;
+  display: flex;
+  position: absolute;
+  box-shadow: 1px 1px 5px 0px #000000;
+  background-color: #ffffff;
+}
+.sv-student2-text01 {
+  top: 24px;
+  left: 19px;
+  position: absolute;
+}
+.sv-student2-text02 {
+  top: 92px;
+  left: 17px;
+  position: absolute;
+}
+.sv-student2-pasted-image {
+  top: 11px;
+  left: 190px;
+  width: var(--dl-size-size-small);
+  height: var(--dl-size-size-small);
+  position: absolute;
+}
+.sv-student2-form1 {
+  top: 223px;
+  left: 447px;
+  width: 462px;
+  height: 493px;
+  display: flex;
+  position: absolute;
+  box-shadow: 1px 1px 5px 0px #000000;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+}
+.sv-student2-text08 {
+  top: 41px;
+  right: 23px;
+  position: absolute;
+  font-size: 20px;
+  line-height: 1.5;
+}
+.sv-student2-pasted-image1 {
+  top: 34px;
+  left: 45px;
+  width: 102px;
+  height: 99px;
+  position: absolute;
+}
+.sv-student2-text15 {
+  top: 159px;
+  left: 166px;
+  position: absolute;
+  font-size: 20px;
+  line-height: 1.5;
+}
+.sv-student2-text29 {
+  top: 294px;
+  left: 164px;
+  position: absolute;
+  font-size: 20px;
+}

@@ -1,0 +1,69 @@
+.sv-arrange-meeting2-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-gray-bg);
+}
+.sv-arrange-meeting2-top-bar {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  width: 1921px;
+  height: 98px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+  background-color: #1e1c1c;
+}
+.sv-arrange-meeting2-text {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  text-align: center;
+}
+.sv-arrange-meeting2-form {
+  top: 275px;
+  left: 711px;
+  width: 497px;
+  height: 101px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  box-shadow: 1px 1px 5px 0px #000000;
+  background-color: #fbe2e2;
+}
+.sv-arrange-meeting2-text1 {
+  top: 43px;
+  left: 30px;
+  position: absolute;
+}
+.sv-arrange-meeting2-select {
+  top: 315px;
+  left: 1031px;
+  position: absolute;
+}
+.sv-arrange-meeting2-navlink {
+  top: 431px;
+  left: 887px;
+  width: 145px;
+  height: 54px;
+  position: absolute;
+  box-shadow: 1px 1px 5px 0px #000000;
+  text-align: center;
+  text-decoration: none;
+}
+.sv-arrange-meeting2-text2 {
+  top: 18px;
+  left: 46px;
+  position: absolute;
+}
+.sv-arrange-meeting2-text5 {
+  top: 236px;
+  left: 842px;
+  position: absolute;
+}

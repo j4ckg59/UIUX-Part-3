@@ -1,0 +1,78 @@
+.st-supervisor-student-list-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: var(--dl-color-gray-bg);
+}
+.st-supervisor-student-list-top-bar {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  width: 1921px;
+  height: 98px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+  background-color: #1e1c1c;
+}
+.st-supervisor-student-list-text {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  text-align: center;
+}
+.st-supervisor-student-list-text1 {
+  top: 260px;
+  left: 872px;
+  position: absolute;
+  font-size: 25px;
+}
+.st-supervisor-student-list-navlink {
+  top: 338px;
+  left: 0px;
+  right: 0px;
+  width: 403px;
+  height: 92px;
+  margin: auto;
+  position: absolute;
+  box-shadow: rgb(0, 0, 0) 1px 1px 5px 0px;
+  text-align: center;
+  text-decoration: none;
+}
+.st-supervisor-student-list-navlink1 {
+  top: 456px;
+  left: 0px;
+  right: 0px;
+  width: 403px;
+  height: 92px;
+  margin: auto;
+  position: absolute;
+  box-shadow: rgb(0, 0, 0) 1px 1px 5px 0px;
+  text-align: center;
+  text-decoration: none;
+}
+.st-supervisor-student-list-navlink2 {
+  top: 576px;
+  left: 0px;
+  right: 0px;
+  width: 403px;
+  height: 92px;
+  margin: auto;
+  position: absolute;
+  box-shadow: rgb(0, 0, 0) 1px 1px 5px 0px;
+  text-align: center;
+  text-decoration: none;
+}
+.st-supervisor-student-list-navlink3 {
+  top: 222px;
+  left: 322px;
+  position: absolute;
+  box-shadow: rgb(0, 0, 0) 1px 1px 5px 0px;
+  text-align: center;
+  text-decoration: none;
+}

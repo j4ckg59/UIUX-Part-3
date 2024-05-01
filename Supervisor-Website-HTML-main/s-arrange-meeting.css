@@ -1,0 +1,91 @@
+.s-arrange-meeting-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-gray-bg);
+}
+.s-arrange-meeting-top-bar {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  width: 1921px;
+  height: 98px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  margin-right: auto;
+  justify-content: center;
+  background-color: #1e1c1c;
+}
+.s-arrange-meeting-text {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  text-align: center;
+}
+.s-arrange-meeting-form {
+  top: 254px;
+  left: 0px;
+  right: 0px;
+  width: 497px;
+  height: 101px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  box-shadow: 1px 1px 5px 0px #000000;
+  background-color: #fbe2e2;
+}
+.s-arrange-meeting-text1 {
+  top: 43px;
+  left: 30px;
+  position: absolute;
+}
+.s-arrange-meeting-select {
+  top: 293px;
+  left: 980px;
+  width: 179px;
+  height: 23px;
+  position: absolute;
+}
+.s-arrange-meeting-personal-supervisor {
+  width: 183px;
+  height: 24px;
+}
+.s-arrange-meeting-form1 {
+  top: 387px;
+  left: 0px;
+  right: 0px;
+  width: 497px;
+  height: 101px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  box-shadow: 1px 1px 5px 0px #000000;
+  background-color: #fbe2e2;
+}
+.s-arrange-meeting-text2 {
+  top: 43px;
+  left: 30px;
+  position: absolute;
+}
+.s-arrange-meeting-select1 {
+  top: 427px;
+  left: 1032px;
+  position: absolute;
+}
+.s-arrange-meeting-navlink {
+  top: 552px;
+  left: 0px;
+  right: 0px;
+  width: 145px;
+  height: 54px;
+  margin: auto;
+  position: absolute;
+  box-shadow: 1px 1px 5px 0px #000000;
+  text-align: center;
+  text-decoration: none;
+}

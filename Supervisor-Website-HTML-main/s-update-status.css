@@ -1,0 +1,108 @@
+.s-update-status-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-gray-bg);
+}
+.s-update-status-top-bar {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  width: 1920px;
+  height: 98px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+  background-color: #1e1c1c;
+}
+.s-update-status-text {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  text-align: center;
+}
+.s-update-status-form {
+  width: 634px;
+  height: 538px;
+  display: flex;
+  position: relative;
+  box-shadow: 1px 1px 5px 0px #000000;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+}
+.s-update-status-checkbox {
+  top: 207px;
+  left: 238px;
+  position: absolute;
+}
+.s-update-status-pasted-image {
+  top: 124px;
+  right: 269px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+}
+.s-update-status-pasted-image1 {
+  top: 125px;
+  right: 129px;
+  width: 100;
+  position: absolute;
+}
+.s-update-status-pasted-image2 {
+  top: 121px;
+  left: 124px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+}
+.s-update-status-checkbox1 {
+  top: 207px;
+  left: 378px;
+  position: absolute;
+}
+.s-update-status-checkbox2 {
+  top: 208px;
+  right: 102px;
+  position: absolute;
+}
+.s-update-status-text1 {
+  top: 75px;
+  left: 236px;
+  position: absolute;
+  font-size: 25px;
+}
+.s-update-status-textarea {
+  top: 322px;
+  left: 179px;
+  width: 274px;
+  height: 106px;
+  margin: auto;
+  position: absolute;
+  box-shadow: 1px 1px 5px 0px #000000;
+}
+.s-update-status-text2 {
+  top: 269px;
+  left: 220px;
+  position: absolute;
+  font-size: 25px;
+}
+.s-update-status-navlink {
+  left: 274px;
+  bottom: 50px;
+  position: absolute;
+  box-shadow: 1px 1px 5px 0px #000000;
+  text-align: center;
+  text-decoration: none;
+}
+.s-update-status-text3 {
+  top: 75px;
+  left: 236px;
+  position: absolute;
+  font-size: 25px;
+}
